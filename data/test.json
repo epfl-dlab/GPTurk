@@ -1,0 +1,562 @@
+[
+  {
+    "HITId":"NEJMoa1014296",
+    "text":"The relationship between lifestyle behaviors and long-term weight gain was investigated across three separate cohorts, which included more than 120,000 individuals. The findings demonstrate that the simple approach of \"eat less and exercise more\" is not the most effective weight-loss solution. Over a four-year interval, participants gained an average of 3.35 lb, with diet factors having the most significant effect on weight gain. The study found that the consumption of individual dietary components such as potato chips, potatoes, sugar-sweetened beverages, unprocessed red meat, and processed meats were the most strongly associated with weight gain. In contrast, intake of vegetables, whole grains, fruit, nuts, and yogurt were inversely associated with weight gain. Additionally, lifestyle factors such as physical activity, sleep, and television watching were also found to be independently associated with weight gain. The study's authors note that specific dietary and lifestyle factors play a significant role in reducing the risk of long-term weight gain.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003833",
+    "text":"The macrolide antibiotic, azithromycin, is commonly used to treat a variety of infections, including pneumonia, bronchitis and sexually transmitted diseases. Although azithromycin is considered to be less cardiotoxic than other macrolide antibiotics, such as erythromycin and clarithromycin, there have been reports of arrhythmias and sudden cardiac death associated with the drug. A study was conducted using a Tennessee Medicaid cohort to determine whether azithromycin increased the risk of cardiovascular death compared to other antibiotics. The results indicated that patients taking azithromycin had an increased risk of cardiovascular death and death from any cause compared to those who took no antibiotics and those who took amoxicillin. The risk was particularly high among patients with a high baseline risk of cardiovascular disease.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"we enrolled in our study 10744 overweight or obese subjects , 55 years of age or older , with preexisting cardiovascular disease, type 2 diabetes mellitus, or both to assess cardiovascular consequences of weight management with and without sibutramine in subjects at high risk for cardiovascular events. All the subjects received sibutramine in addition to participating in a weight management program during a 6 week, single blind, lead in period , after which 9804 subjects underwent random assignment in a double blind fashion to sibutramine or placebo . The primary end point was the time from randomization to the first occurrence of a primary outcome event. Subjects with preexisting cardiovascular conditions who were receiving long term sibutramine treatment had an increased risk of nonfatal myocardial infraction and nonfatal stroke  but not of cardiovascular death or death from any cause.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1304127",
+    "text":"High blood pressure is caused by too high of sodium intake and it will increase your likelihood of developing cardiovascular disease. Most people throughout the world get about 3.95g of sodium in their diet each day. There were 1.65 million deaths from cardiovascular disease in 2010. Research discovered that many of these deaths were in people who had a much greater intake of sodium than the 3.95 per day. Many of these deaths were in low and middle income countries and were premature - meaning the person died before they should have. The country that was the most affected by this was Georgia but Kenya was least affected. This is why researchers are now saying that we should do our best to keep our sodium intake to around 2g per day. Doing so is healthier for us and will help prevent us from suffering from a premature death. Research was conducted by organizations like the Bill and Melinda Gates Foundation.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"A study has investigated the effects of sibutramine treatment on cardiovascular outcomes in overweight and obese subjects with preexisting cardiovascular disease, type 2 diabetes mellitus, or both. The study enrolled 10,744 participants who received sibutramine in addition to participating in a weight management program during a 6-week, single-blind, lead-in period. Afterward, 9,804 participants underwent random assignment in a double-blind fashion to sibutramine or a placebo. The mean duration of treatment was 3.4 years. It was found that the risk of a primary outcome event was higher in the sibutramine group than the placebo group. Subjects with preexisting cardiovascular conditions receiving long-term sibutramine treatment had an increased risk of nonfatal myocardial infarction and nonfatal stroke but not of cardiovascular death or death from any cause.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1014296",
+    "text":"The success of the simple weight loss strategy \"eat less and exercise more\" can be affected by specific diet and lifestyle behaviours, according to a study involving 120,877 US women and men. Researchers performed prospective investigations involving three separate cohorts of people without chronic diseases or obesity at baseline, with follow-up periods from 1986 to 2006, 1991 to 2003, and 1986 to 2006. Within each four-year period participants gained an average of 3.35 lb and some dietary choices appeared to be particularly linked to weight gain, including sugar-sweetened beverages, potato chips, potatoes, unprocessed red meats and processed meats. Other lifestyle issues such as physical activity, alcohol use, smoking and sleep were also associated with weight gain.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa021134",
+    "text":"The article is about the civil survey of the vaccination against the measles, mumps, and rubella which they are causes for autism. Every ones know about the sever effects of autism. They collect autism status from the various non profitable organizations like the danish board of health, Statistics Denmark. &#13;From their investigation 537,303 children in the cohort, 440,655 had received the MMR vaccine.  They identified 316 children with a diagnosis of autistic disorder and 422 with a diagnosis of other autistic-spectrum disorders. &#13;After completing their adjustment for potential con founders.  After the vaccination process the risk will be reduced in good ratio. the risk factor reduced to 0.92. Another autistic spectrum disorder risk factor reduced to 0.83.  There was no association between the age at the time of vaccination and the development of the autistic disorder.&#13;This study strongly prove against the hypothesis the MMR vaccination causes autism. &#13;&#13;",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1003833",
+    "text":"A new study has found that the popular antibiotic, azithromycin, is associated with an increased risk of cardiovascular death. Although it was previously thought to have minimal cardiotoxicity, this study found that patients taking azithromycin for five days had a greater risk of cardiovascular death compared to those who took no antibiotics. The risk was also higher compared to patients taking amoxicillin, with an estimated 47 additional cardiovascular deaths per one million courses of azithromycin. Patients in the highest decile of risk for cardiovascular disease had an estimated 245 additional cardiovascular deaths per one million courses. The study suggests that doctors should consider the risks and benefits of azithromycin before prescribing it to patients.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1206809",
+    "text":"The introduction of screening mammography has doubled the number of cases of early-stage breast cancer detected and decreased late-stage diagnoses, according to Surveillance, Epidemiology and End Results data, which demonstrates a decrease in advanced stage cancer presentations of 8% from 102 to 94 per 100,000 women. However, despite the increase in early diagnosis, screening mammography has only marginally reduced the rate of women presenting with advanced cancer. It is estimated that more than 70,000 women in the United States were overdiagnosed in 2008, accounting for 31% of all breast cancers diagnosed, and that breast cancer was overdiagnosed in 1.3 million U.S. women in the past 30 years.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003833",
+    "text":"Azithromycin, an antibiotic thought to have minimal cardiotoxicity, may increase the risk of cardiovascular death, according to a study of a Tennessee Medicaid cohort. Patients taking azithromycin during a five-day period had an increased risk of cardiovascular death compared with patients who took no antibiotics, according to the study. The risk of cardiovascular death was significantly greater with azithromycin than with ciprofloxacin but did not differ significantly from that with levofloxacin. The study found a small absolute increase in cardiovascular deaths during azithromycin therapy, which was most pronounced among patients with a high baseline risk of cardiovascular disease.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"The effects of sibutramine on cardiovascular outcomes in overweight and obese subjects with pre-existing cardiovascular disease or type 2 diabetes mellitus have not been established. A study enrolled 10,744 subjects to determine the cardiovascular consequences of weight management with and without sibutramine in high-risk subjects. All participants received sibutramine during a 6-week, single-blind, lead-in period, with 9804 then randomly assigned to receive sibutramine or a placebo in a double-blind trial. The primary endpoint was the time from randomization to the first occurrence of a primary outcome event. The results showed that sibutramine increased the risk of nonfatal myocardial infarction and nonfatal stroke but did not increase cardiovascular death or death from any cause.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200303",
+    "text":"A randomized trial of the Mediterranean diet has shown its effectiveness in reducing the incidence of cardiovascular events. The study, which was conducted in Spain, involved participants who were at high risk of cardiovascular disease but who had no known conditions. Three diets were used: a Mediterranean diet supplemented with extra-virgin olive oil, a Mediterranean diet supplemented with mixed nuts, and a control diet where participants were advised to reduce dietary fat. The primary end-point was the rate of major cardiovascular events including stroke, death from cardiovascular causes, and myocardial infarction. After a median follow-up of 4.8 years, the study showed a reduction in the incidence of these events among the participants in the Mediterranean diet groups compared to the control group. No adverse side effects were reported.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"A new study has found that screening mammography is associated with a reduction in the rate of death from breast cancer, but the screening itself only accounts for about a third of the total reduction. The study looked at women between the ages of 50 and 69 years in Norway who were offered screening mammography every two years from 1996 until 2005. Researchers compared the incidence-based rates of death from breast cancer in the screening and non-screening groups, as well as two historical-comparison groups. In the screening group, the rate of death was reduced by 10%, while the reduction in mortality between the current and historical groups that could be attributed to screening alone was only a third of the total reduction.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1014296",
+    "text":"The 'eat less and exercise more' strategy for preventing long-term weight gain may be affected by specific dietary and lifestyle behaviours, according to a study involving three separate cohorts of U.S. women and men who were free of chronic diseases and not obese at baseline. Researchers evaluated relationships between changes in lifestyle factors and weight change at four-year intervals across a 20-year follow-up period. They found that 4-year weight change was most strongly associated with the intake of potato chips, potatoes, sugar-sweetened beverages, unprocessed red meats, and processed meats. Aggregate dietary changes were associated with substantial differences in weight change. Other lifestyle factors were also independently associated with weight change.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0804748",
+    "text":"We compared the result of weight loss with four different diets. For this study we looked for adult participants who were overweight. The four diets were distributed randomly to the 811 subjects. Each diet emphasized weight loss possibilities, by distributing proteins, fats, or carbohydrates into different energy consumptions. Each one of the groups were offered group and individual instructional sessions for 2 years. All groups compared similarity in satiety, hunger, satisfaction with their diets, and group attendance. After 6 months all 4 groups seemed to share an average weight loss of 6kg, however, they began regaining the weight after 12 months. At year 2 all averaged a 3% kg weight loss. All diets showed to have improved lipid related risk factors and fasting insulin levels. End conclusion, is that all reduced calorie diets will result in meaningful weight loss, in spite of what macronutrient was emphasized.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa072761",
+    "text":"The effect of Rosiglitazone on cardiovascular morbidity and mortality has been uncertain. The drug, which is widely used to treat type 2 diabetes, was assessed in a meta-analysis of published literature, a clinical-trials registry maintained by the drug manufacturer (GlaxoSmithKline), and the Food and Drug Administration\u2019s website. The inclusion criteria included the study duration being over 24 weeks, the availability of outcome data for myocardial infarction and death from cardiovascular causes, and the use of a control group not receiving Rosiglitazone. Of the 116 studies considered, 42 met the inclusion criteria. The study found an increase in risk of myocardial infarction and death from cardiovascular causes associated with Rosiglitazone. Patients and providers should consider the potential for serious adverse cardiovascular effects when treating patients with type 2 diabetes.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"A study was conducted to assess the effects of sibutramine on cardiovascular outcomes in overweight or obese subjects aged 55 years or older with pre-existing cardiovascular disease, type 2 diabetes mellitus, or both. The subjects were randomly assigned to receive sibutramine or a placebo, and the primary endpoint was the time from randomization to the first occurrence of a primary outcome event such as non-fatal myocardial infarction, non-fatal stroke, resuscitation after cardiac arrest, or cardiovascular death. The study showed that the risk of a primary outcome event was higher in the sibutramine group compared to the placebo group, with an increased risk of non-fatal myocardial infarction and non-fatal stroke. However, there was no increase in the rates of cardiovascular death or death from any cause.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"A Norwegian breast-cancer screening program that started in 1996 was expanded geographically during a subsequent 9 years. Women ages 50 to 69 yrs were offered screening mammograms every 2 yrs. They compared incidence-based rates of death from breast cancer in  2 group of women who from 1996 thru 2005 were living in counties w\/ screening (screening group) or w\/out (nonscreening group) and 2 historical-comparison groups that from 1986 thru 1995 mirrored the current group. Data was analyzed from 40075 women w\/ breast cancer. The death rate was reduced by 7.2 deaths per 100,000 person-years in the nonscreen group as compared with the historical nonscreen group), for a relative reduction in mortality of 10% in the screening group. The difference in the reduction of mortality between the current and historical groups that could be attributed to screening alone was 2.4 deaths per 100,000 person-years. The availability of screening mammograms was associated w\/ reducing the rate of death from breast cancer. The screening itself accounted for about 1\/3 of the total reduction.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1206809",
+    "text":"While mammography is the preferred choice in detecting an early incidence of breast cancer in women, a study performed over three decades is showing some dramatic results. Effective cancer screening programs show both a substantial increase in the number of cases detected in early stages, and a decrease in cancer presenting itself at a later stage.  Since mammography was introduced in the U.S., the number of early stage cancer cases detected had doubled in just one year, while late stage cases declined.  Based on variables such as hormone-replacement therapy and other adjusted trends, the study concluded that breast cancer was overdiagnosed in 1.3 million women in the U.S. in the past 30 years. This has led researchers to believe that while screening is important, it has only marginally reduced the rate at which women are diagnosed with advanced cancer.  The imbalance suggests that overdiagnosis accounts for nearly a third of all newly diagnosed breast cancers. Screening has only a small effect on the death rate from the disease.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1200303",
+    "text":"A randomized trial in Spain has shown that a Mediterranean diet can reduce the risk of cardiovascular events such as heart attacks, stroke and death from cardiovascular causes. Participants aged between 55 and 80, who were at high risk of cardiovascular disease but had no history of it, were split into three groups: one group was on the Mediterranean diet supplemented with extra-virgin olive oil, another group was on the Mediterranean diet supplemented with mixed nuts, and a control group was advised to reduce dietary fat. After a median follow-up of 4.8 years, the group on the Mediterranean diet with extra-virgin olive oil saw a 30% reduction in risk and the group on the Mediterranean diet with nuts saw a 28% reduction in risk. There were no reported adverse effects.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1103507",
+    "text":"Aromatase inhibitors are better suited for preventing breast cancer compared to tamoxifen and raloxifene and cause fewer side effects. A randomized, placebo-controlled, double-blind trial took place assessing the use of exemestane. Postmenopausal women aged 35 and over with at least one of the following risk factors were enrolled: Gail 5-year risk score over 1.66%, prior atypical ductal or lobular hyperplasia or lobular carcinoma in situ, or ductal carcinoma in situ with mastectomy. Those given exemestane saw a 65% relative reduction in the annual incidence of invasive breast cancer compared to those on placebo. Only minimal quality-of-life differences were observed and no significant differences between groups for skeletal fractures, cardiovascular events, other cancers, or treatment-related deaths. Exemestane showed a significant reduction in invasive breast cancers in postmenopausal women at moderately increased risk for breast cancer, with no serious toxic effects.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa021134",
+    "text":"Although some people believe there is a causal connection between a child taking the MMR (Measles, Mumps and Rubella) vaccine and development of autism, this study found no link between the vaccine and development of autism in children. The study looked at children born in Denmark between 1991 and 1998. A total of 537,303 children were included in the study. Information came from the Danish National Board of Health (vaccine) and the Danish Psychiatric Civil Registry (autism). Additional information was obtained from the Danish Civil Registration System, the Danish Medical Birth Registry, the National Hospital Registry and Statistics Denmark.&#13;&#13;No association was found to indicate any correlation between a child developing autism from taking the vaccine. There was no association even after considering the age of the child when vaccinated, the time since vaccination or the time between the vaccination and a diagnosis of autism. ",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1014296",
+    "text":"This study investigated the relationship between changes in diet and lifestyle and long-term weight gain in women and men. The study involved three separate cohorts comprising 120,877 US women and men who were free of chronic diseases and not obese at baseline, with follow-up periods ranging from 1986 to 2006. The study found that over each 4-year period, participants gained an average of 3.35 lb, and weight change was most strongly associated with the intake of potato chips, potatoes, sugar-sweetened beverages, unprocessed red meats, and processed meats. Conversely, an inverse association was found between weight change and the intake of vegetables, whole grains, fruits, nuts, and yogurt. Other lifestyle factors including physical activity, alcohol use, smoking, sleep, and television watching were also independently associated with weight change. The study highlights the importance of specific dietary and lifestyle changes in preventing long-term weight gain and obesity.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"The study aimed to measure the impact of screening mammography on breast cancer mortality, with a particular focus on how to establish a valid comparison group. The Norwegian breast cancer screening program, launched in 1996, was expanded over nine years, offering screening mammography every two years to women aged 50 to 69. Researchers compared death rates in two groups: women living in counties with screening and women living in counties without screening, from 1996 to 2005. They also analysed two historical comparison groups from 1986 to 1995. The study found that availability of screening mammography reduced death rates from breast cancer, but only accounted for about a third of the total reduction.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa021134",
+    "text":"A retrospective cohort study was conducted in Denmark to investigate whether vaccination against measles, mumps, and rubella (MMR) is a cause of autism. The study looked at all children born in Denmark between January 1991 and December 1998 and identified 316 children with a diagnosis of autistic disorder and 422 with a diagnosis of other autistic-spectrum disorders. After adjusting for potential confounders, the study found no association between MMR vaccination and the development of autistic disorder or other autistic-spectrum disorders. The study provides strong evidence against the hypothesis that MMR vaccination causes autism.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1102287",
+    "text":"A phase 3 study of RTS, S\/AS01, a candidate malaria vaccine, is being conducted in seven African countries. The study analysed 15,460 children, aged between six weeks to 17 months, and the primary endpoint was vaccine efficacy against clinical malaria over 12 months. The vaccine was shown to be effective against both clinical and severe malaria in African children. In the 14 months after the first dose of vaccine, the incidence of first episodes of clinical malaria in the older age category was 0.32 episodes per person-year in the RTS, S\/AS01 group and 0.55 episodes per person-year in the control group, for an efficacy of 50.4%. Serious adverse events occurred with a similar frequency in the two study groups. The findings suggest that the RTS, S\/AS01 vaccine could provide a significant reduction in the incidence of malaria in African children.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0907413",
+    "text":"A randomized trial in Australia evaluated the safety and effectiveness of a 2009 influenza A (H1N1) vaccine in healthy adults aged between 18 and 64. The participants were divided into two groups, with each receiving two doses of either 15 \u03bcg or 30 \u03bcg of hemagglutinin antigen, 21 days apart. After the first dose, antibody titers of 1:40 or more were observed in 95.0% of subjects who received the 15-\u03bcg dose and 89.1% of subjects who received the 30-\u03bcg dose. A similar result was observed after the second dose. Mild-to-moderate vaccine-associated reactions, such as injection-site tenderness or pain and headache, were reported by more than half of the participants, but no serious adverse events were reported. The study concluded that a single 15-\u03bcg dose of the vaccine was safe and effective in adults.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1404037",
+    "text":"A new study suggests that premenopausal women with hormone-receptor-positive early breast cancer may benefit from adjuvant treatment with exemestane plus ovarian suppression instead of tamoxifen plus ovarian suppression. The study, which consisted of two phase 3 trials, compared the two treatments over a period of five years and found that the combination of exemestane and ovarian suppression resulted in higher disease-free survival rates and rates of freedom from breast cancer than tamoxifen and ovarian suppression. Although overall survival did not differ significantly between the two groups, the study suggests that the use of exemestane may be a more effective adjuvant therapy for premenopausal women with hormone-receptor-positive early breast cancer.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1304127",
+    "text":"High sodium intake increases blood pressure, which is a key risk factor for cardiovascular disease. Researchers collected data from surveys on sodium intake from 66 countries, accounting for 74.1% of adults around the world. This data was used to quantify the global consumption of sodium by age, sex, and country. The study also calculated the effects of sodium on blood pressure and the effects of blood pressure on cardiovascular mortality, according to age. In 2010, it is estimated that the mean global sodium consumption was 3.95 g per day, and this excessive consumption was linked to 1.65 million annual deaths from cardiovascular causes, accounting for almost 10% of all deaths from cardiovascular causes. The rate of death from cardiovascular causes associated with sodium intake above the reference level was highest in Georgia and lowest in Kenya.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1112010",
+    "text":"A trial was conducted to see if there was an association between coffee consumption and the risk of death. 229,119 men and 173,141 women participated, ranging in age from 50-71. Those with cancer, heart disease, and stroke were excluded. During the follow-up between 1995 and 2008, 33,731 men and 18,784 women died. While the risk of death was increased in coffee drinkers, they were also more likely to be smokers. After adjusting for tobacco-smoking status, a significant inverse association was found.&#13;&#13;Hazard ratios for men were .99 for drinking less than 1 cup of coffee per day, .94 for 1 cup\/day, .90 for 2-3 cups\/day, .88 for 4-5 cups\/day, and .90 for 6 or more cups\/day. The hazard ratios for women were 1.01 for less than 1 cup\/day, .95 for 1 cup\/day, .87 for 2-3 cups\/day, .84 for 4-5 cups\/day, and .85 for 6 or more cups\/day. Inverse associations were observed for deaths due to heart disease, respiratory disease, stroke, injuries and accidents, diabetes, and infections, but not for cancer. Whether this was causal or associational could not be determined from the data.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1404037",
+    "text":"Adjuvant treatment with an aromatase inhibitor, exemestane, plus ovarian suppression is more effective than tamoxifen plus ovarian suppression in reducing the recurrence of hormone-receptor-positive early breast cancer in premenopausal women. Two phase 3 trials with 4690 women randomly assigned them to one of the two treatments for five years. The group receiving exemestane plus ovarian suppression had a 91.1% disease-free survival rate after five years compared with 87.3% for the tamoxifen group, and a breast cancer recurrence rate of 92.8% compared with 88.8% for the tamoxifen group. There was no significant difference in overall survival between the two groups. The treatment was well-tolerated.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1112010",
+    "text":"A study carried out by health researchers examined the\u00a0association between coffee consumption and the risk of death. The research involved examining 229,119 men and 173,141 women aged 50-71 from the National Institutes of Health - AARP Diet and Health Study. It found that there was a significant inverse association between coffee consumption and mortality after adjustment for tobacco-smoking status and other potential confounders. Coffee drinkers showed inverse associations between their risk of death and deaths due to heart disease, respiratory disease, stroke, injuries and accidents, diabetes and infections. The study could not determine whether the inverse association was causal.\u00a0",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1102287",
+    "text":"A phase III study of the RTS,S\/AS01 vaccine for malaria is currently ongoing in seven African countries. 15,460 children aged between 6 to 12 weeks and 5 to 17 months were enrolled in the study between March 2009 and January 2011. The study aimed to evaluate the efficacy, safety and immunogenicity of the vaccine. The vaccine was found to provide protection against both clinical and severe malaria in African children. The vaccine efficacy against clinical malaria was found to be 50.4% in the intention-to-treat population and 55.8% in the per-protocol population. Meanwhile, vaccine efficacy against severe malaria was 45.1% in the intention-to-treat population and 47.3% in the per-protocol population. Serious adverse events occurred with a similar frequency in both study groups.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1103507",
+    "text":"In a random, placebo-controlled double-blind trial of exemestane made to detect a 65% reduction in invasive breast cancer, eligible postmenopausal women 35 years or older having one or more of the following risk factors: 60 yrs or older; Gail 5-yr risk score greater than 1.66% (chances in 100 of invasive breast cancer within 5 yrs); prior atypical ductal or lobular hyperplaisa or lobular carcinoma in situ; or ductal carcinoma in situ w\/ mastectomy. Toxic effects and health-related and menopause specific qualities of life were measured. A total of 4560 women whose median age was 62.5 yrs and median Gail risk was 2.3% were randomly assigned exemestane or placebo. Exemestane significantly reduced invasive breast cancers in postmenopausal women who were at moderately increased risk for breast cancer. During a median follow-up period of 3 years, exemestane was associated with no serious toxic effects and only minimal changes in health-related quality of life. (Funded by Pfizer and others)",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa0907413",
+    "text":"Scientists conducted a clinical trial to evaluate the safety and effectiveness of a monovalent 2009 influenza A (H1N1) vaccine in healthy adults between 18 and 64 years old. The objective was to find out if the vaccine is\u00a0safe and immunogenic (able to stimulate an immune response). During the trial, 240 participants were enrolled and divided into age groups, receiving either a 15\u03bcg or 30\u03bcg dose of the vaccine. The investigators measured antibody titers and reported that a single 15\u03bcg dose of the vaccine was immunogenic, with nearly 95% of the participants showing an antibody response. The vaccine was well-tolerated with few reported side effects, such as injection-site tenderness and headache. Based on the results, the vaccine is considered a safe and effective means of preventing H1N1 influenza in healthy adults. \u00a0",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1404037",
+    "text":"Exemestane combined with ovarian suppression was found to be more effective than tamoxifen and ovarian suppression for treating hormone-receptor-positive early breast cancer in premenopausal women. In two phase 3 trials, premenopausal women with hormone-receptor-positive early breast cancer were randomly assigned to the aromatase inhibitor exemestane, combined with ovarian suppression, or tamoxifen, also combined with ovarian suppression, for five years. The study analysed 4,690 patients and found that after a median follow-up of 68 months, exemestane - ovarian suppression therapy led to a disease-free survival rate of 91.1% at five years, compared to 87.3% in the tamoxifen - ovarian suppression treatment group. Selected adverse events were reported with similar rates as observed in postmenopausal women.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1304127",
+    "text":"High sodium intake is a risk factor for cardiovascular disease, but the effects of sodium on global cardiovascular mortality are unclear. Researchers collected data on sodium intake and diet from 66 countries, using this data to determine sodium intake by age, sex, and country. The effects of sodium on blood pressure and the effects of blood pressure on cardiovascular mortality were calculated. The study found that globally, 1.65 million deaths from cardiovascular causes were attributed to sodium consumption above the reference level of 2.0 g per day. The majority of deaths (84.3%) occurred in low- and middle-income countries, and 40.4% of deaths were premature (before 70 years of age). The rate of death from cardiovascular causes associated with high sodium intake was highest in Georgia and lowest in Kenya.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"Screening mammography's usefulness in preventing breast cancer deaths is hard to gauge because it's hard to find good comparison groups. You can compare to older study groups but that wouldn't account for changes in technology that might affect mortality rates decreasing. The Norwegian breast cancer screening program started and grew, leading to women from 50-69 years old getting access to mammogram screenings every two years. They compared four groups made up of 40,075 women total with breast cancer. Two groups were from 1996-2005. One group received screening and one did not. The other two groups were from 1986 through 1995 and again, one received screening and the other didn't. The rate of death decreased by 7.2 deaths per 100,000 person-years in the 1996-2005 group compared to the 1986-1995 group. In women that didn't get screened, there was still a reduction of 4.8 deaths per 100,000 person-years. This concludes that screening did help reduce deaths but other factors helped with reduction of breast cancer deaths. ",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa021134",
+    "text":"A cohort study conducted in Denmark examined the link between vaccination against measles, mumps, and rubella (MMR) and autism. The study included data from all children born in Denmark between 1991 and 1998, with MMR vaccination status obtained from the Danish National Board of Health and autism status obtained from the Danish Psychiatric Central Register. Of the 537,303 children in the cohort, 82% had been vaccinated with MMR, and there was no association found between MMR vaccination and the development of either autistic disorder or other autistic-spectrum disorders. The study provides evidence against the hypothesis that MMR vaccination causes autism.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200303",
+    "text":"A study conducted in Spain has shown that a Mediterranean diet supplemented with extra-virgin olive oil or nuts can lead to a reduction in the incidence of major cardiovascular events. The study included 7447 participants who were randomly assigned one of three diets, including a Mediterranean diet supplemented with extra-virgin olive oil, a Mediterranean diet supplemented with mixed nuts, or a control diet that advised participants to reduce their dietary fat intake. The two groups following the Mediterranean diets had good adherence, and the trial was stopped early due to the significant reduction in the incidence of major cardiovascular events in these groups compared to the control group. No diet-related adverse effects were reported.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"The impact of screening mammography on breast cancer mortality is difficult to measure as historical control groups don't take into account advances in breast cancer treatment or awareness. The Norwegian breast-cancer screening program began in 1996, with women aged 50-69 offered screening mammography every two years. A comparison was made between two groups of women living in screened and nonscreened areas from 1996 to 2005, and two comparison groups mirroring these from 1986 to 1995. Data from 40,075 women with breast cancer showed a reduction in death rate of 7.2 deaths per 100,000 person-years for the screened group compared with the historical screening group. Screening accounted for just a third of the total reduction.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0804748",
+    "text":"A study has looked into whether a diet that emphasises protein, fat, or carbohydrates has any advantages in terms of weight loss. 811 overweight adults were randomly assigned to four different diets. The diets were similar in that they met guidelines for cardiovascular health, but differed in the targeted percentages of energy derived from fat, protein, and carbohydrates. After 2 years, weight loss remained similar in those who were assigned to diets with differing fat, protein, and carbohydrate levels. However, 14 to 15% of participants had a reduction of at least 10% of their initial body weight. The diets also improved lipid-related risk factors and fasting insulin levels. Satiety, hunger, satisfaction with the diet, and attendance at group sessions were similar for all diets; attendance was strongly associated with weight loss.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1112010",
+    "text":"We examined the association of coffee drinking w\/ subsequent total &amp; cause-specific morality among 229,119 men &amp; 173,141 women in National Institutes of health.  People ranging from 50-71 yrs old &amp; w\/exclusion of cancer, heart disease, &amp; strokes.  Between 1995-2008 33,731 men &amp; 18,784 women died.  The risk of death was increased among coffee drinkers, but they were more likey to smoke.  After adjustment of smoking &amp; other potentiial confounders, there was a significant inverse association.  .99 (95% confidence interval(CI) .95-1.04) for drinking less then 1 cup a day, .94(95% CI .90-.099) @ 1 cup, .90(95% CI .86-93 @ 2-3 cups, .88 (95% CI .84-93@ 4-5 cups. .90(95% CI .85-.96)@ 6 plus cups per day.  Invers associations were observed for deaths due to heart &amp; respitory disease, stroke, diabetes, and other infections, injuries &amp; accidents.  In this prospective study, coffee drinking was inversely associated w\/total &amp; cause specific morality.  Associational facts aren't determined from our data.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1102287",
+    "text":"A phase 3 study of the RTS,S\/AS01 malaria vaccine has found that it provides protection against both clinical and severe malaria in African children. The study enrolled 15,460 children in two age brackets, aged between six weeks to 12 weeks and five months to 17 months, and evaluated vaccine efficacy against clinical malaria during the 12 months after vaccination in the 5,000 children aged between five months and 17 months. After 250 children had an episode of severe malaria, vaccine efficacy against severe malaria was evaluated in both age categories. During the 14 months after the first vaccine dose, the incidence of first clinical malaria episodes in children aged between five months and 17 months was reduced by 50.4% in the RTS,S\/AS01 group versus a control group. Vaccine efficacy against severe malaria in the combined age categories was 34.8% during an average follow-up of 11 months. Serious adverse events occurred with a similar frequency in both groups.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003833",
+    "text":"Azithromycin, a commonly prescribed antibiotic, has been linked to an increased risk of cardiovascular death, according to a study of a Tennessee Medicaid cohort. The study, which included 347,795 prescriptions for azithromycin, found that during five days of therapy, patients taking the antibiotic had an increased risk of cardiovascular death and death from any cause in comparison with patients who took no antibiotics. Patients who took amoxicillin had no increase in the risk of death during this period. The study estimated that there were 47 additional cardiovascular deaths per one million courses of treatment, rising to 245 additional deaths for patients in the highest decile of risk.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1404037",
+    "text":"Two phase 3 trials have shown that adjuvant therapy with an aromatase inhibitor called exemestane improve outcomes for premenopausal women with hormone-receptor-positive early breast cancer. In the trials, 4690 women were randomly assigned to receive either exemestane plus ovarian suppression or tamoxifen plus ovarian suppression for 5 years. Ovarian estrogen production was suppressed using gonadotropin-releasing-hormone agonist triptorelin, oophorectomy or ovarian irradiation. After a median follow-up of 68 months, the rate of disease-free survival at 5 years was 91.1% in the exemestane group and 87.3% in the tamoxifen group. The rate of freedom from breast cancer at 5 years was 92.8% in the exemestane group and 88.8% in the tamoxifen group. Overall survival did not differ significantly between the two groups.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200303",
+    "text":"A study conducted in Spain has shown that a Mediterranean diet supplemented with olive oil or nuts can reduce the risk of major cardiovascular events. The study was conducted through a randomised trial of the diet pattern for the primary prevention of cardiovascular events. Participants were at high cardiovascular risk but had no cardiovascular disease at enrolment, and were randomly assigned to one of three diets. The primary end point was the rate of major cardiovascular events, and the results showed that the two Mediterranean-diet groups had good adherence to the intervention, and no diet-related adverse effects were reported. The study concludes that a Mediterranean diet supplemented with olive oil or nuts can help prevent cardiovascular disease.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1103507",
+    "text":"Exemestane has been found to significantly reduce the incidence of invasive breast cancer in postmenopausal women at moderately increased risk of the disease. The drug was compared to a placebo in a randomized, double-blind trial involving 4,560 women with a median age of 62.5 years. The study, designed to detect a 65% relative reduction in invasive breast cancer, required women to have at least one risk factor. At a median follow-up of 35 months, 11 invasive breast cancers were detected in those given exemestane and 32 in those given placebo. Adverse effects were observed in 88% of the exemestane group and 85% of the placebo group.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200850",
+    "text":"Children in the United States receive 5 doses of diphtheria, tetanus and acellular pertussis (DTaP) vaccine before the age of 7. It is unknown how long the DTaP vaccine is effective after the 5 doses. A case control study, from 2006 - 2011, was conducted to determine the risk of pertussis in children in California (Kaiser Permanente Northern California members vaccinated with DTaP between 47 to 84 months) after the 5th dose of DTaP. &#13;Children (ages 4 - 12) with pertussis confirmed by a positive polymerase-chain-reaction (PCR) assay were compared to pertussis PCR negative children and closely matched controls from the general population of health plan members. Statistical analysis was used to determine the risk of pertussis relative to the duration of time since the 5th DTaP dose. The study found PCR positive children were more likely to have received the 5th DTaP dose earlier that PCR negative controls or matched controls . After the 5th dose of DTaP the odds of getting pertussis increased by an average of 42% per year with odds ratio of 1.42 (95% Confidence interval 1.21 to 1.66)",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1112010",
+    "text":"The goal of the this study is examine the link between consuming coffee and death.&#13;&#13;229,119 men and 173,141 women between 50 to 71 years old took place in the study between 1995 and 2008.  Prospective participants with cancer, heart disease, and stroke were screened out.&#13;&#13;Throughout the aforementioned timeline, 33,731 men and 18,784 women passed away.  Coffee drinkers were more likely to smoke, with that given an increase between coffee and death was shown, even with just one daily cup.  Participants succumbed to mortality due to heart disease, respiratory disease, stroke, injuries and accidents, diabetes, and infections.  Similar findings occurred with those who never smoked and were in great physical shape.&#13;&#13;The end of the study showed an inverse association between natural mortality and cause-specific.  The conclusion could be causal or associational, but is unknown what the reasoning is.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"There was a study done on the long-term effects of sibutramine treatment on cardiovascular events and death.  The study enrolled 10,744 overweight and obese people, 55 years and older, with preexisting cardiovascular, diabetes or both.  All people received situtramine and participated in a 6 week, weight management program.  An equal number were given sibutramine and placebo.   The study went on for 3.4 years.  The medium Weight loss was 2.6 kg.  Subjects in the sibutramine group achieved and maintained further weight reduction.  The blood pressure decreased in both groups, with great reduction in the placebo group.  In both groups, the rates of cardiovascular death and feather from any other cause were not increased.  Subjects were preexisting cardiovascular conditions, who received long term sibutramine treatment had an increased risk of non fatal heart infarctions and nonfatal stroke but not of cardiovascular death.  Study funded by Abbott ClinicalTrials. ",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa0907413",
+    "text":"A safe and effective vaccine is needed for the novel 2009 influenza A (H1N1) virus which is responsible for the first influenza pandemic in 41 years. A clinical trial testing two doses of a 2009 H1N1 vaccine in healthy adults between the ages of 18 and 64 years is ongoing in Australia. The trial evaluated the immunogenicity and safety of the vaccine after each of two scheduled doses, administered 21 days apart. By day 21 after the first dose, antibody titers of 1:40 or more were observed in 95.0% of subjects who received the 15-\u03bcg dose and in 89.1% of subjects who received the 30-\u03bcg dose. No deaths, serious adverse events, or adverse events of special interest were reported. Local discomfort and systemic symptoms were reported by subjects, but nearly all events were mild to moderate in intensity.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1304127",
+    "text":"A new study published in the New England Journal of Medicine has found that high salt intake is responsible for 1.65 million deaths from cardiovascular disease per year worldwide, and that 84% of these deaths occur in low and middle-income countries. The study, which is the most comprehensive analysis of salt intake ever conducted, argues that reducing salt intake to 2g per day, the World Health Organisation\u2019s recommendation, could prevent a quarter of these deaths. The UK\u2019s salt reduction programme has been cited as a success story in the fight against salt, with a 15% reduction in salt intake leading to a 42% reduction in deaths from stroke and heart disease. However, the food industry has been accused of failing to meet targets to reduce salt levels by the end of 2017.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa072761",
+    "text":"A meta-analysis conducted on Rosiglitazone, a drug used in the treatment of patients with type 2 diabetes mellitus, has found that the drug has been associated with a significant increase in the risk of myocardial infarction and an increase in the risk of death from cardiovascular causes. The study analysed 42 trials, with a mean age of 56 years and a baseline glycated haemoglobin level of approximately 8.2%. The data shows that, in the Rosiglitazone group, the odds ratio for myocardial infarction was 1.43 and the odds ratio for death from cardiovascular causes was 1.64, both statistically significant. While time-to-event analysis was not possible, the study concludes that patients and providers should consider the potential for serious adverse cardiovascular effects of treatment with Rosiglitazone for type 2 diabetes.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200850",
+    "text":"In the United States the average child receives five doses of diptheria, tetanus , and DTaP vaccine before they are 7 years of age. In 2010 there was a large outbreak of Pertussis in children in California. A Kaiser Permanete general population of health club memberss did a study that study shown logistic regression to examine the risk of pertussis in relation to the timesince the fifth DTaP dose. Children who received whole cell pertussis vaccine during infancy or who received any pertussis containing vaccine after their fifth dose were excluded. 277 children were compared ranging from 4 to 12 years of age who had been PCR Positive for Pertussis. In the study the PCR Positive children were more likely to have received the 5th DTaP dose earlier than PCR negative controls were. The duration of protection after the five doses of DTaP is still unknown. The odds of acquiring pertussis had actually increased.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"A recent study in Norway has determined that the availability of screening mammography was associated with a reduction in the rate of death from breast cancer (by 2.4 deaths per 100,000 person-years), however, the screening itself was only responsible for about a third of the total reduction (7.2 deaths per 100,000 person-years). The study evaluated women between the ages of 50 and 69 who were offered screening mammography every 2 years as part of Norway's breast-cancer screening program which began in 1996 and expanded to include more areas in the subsequent 9 years. The reduction in mortality from screening mammography was not statistically significant on its own, but combined with other advances in breast cancer awareness and treatment, it made a significant impact.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1103507",
+    "text":"Aromatase inhibitors can prevent more contralateral breast cancers and cause fewer side effects than tamoxifen in early-stage breast cancer patients. Tamoxifen and raloxifene are not widely accepted by patients for breast cancer prevention. Postmenopausal women with one of the following risk factors: 60 years or older, Gail 5-year risk score greater than 1.66%, prior atypical ductal or lobular hyperplasia or lobular carcinoma in situ, or ductal carcinoma in situ with mastectomy, were eligible for the trial. A total of 4560 women were randomly assigned to either exemestane or placebo. At a median follow-up of 35 months, 11 invasive breast cancers were detected in those given exemestane and in 32 given placebo, for a 65% relative reduction in invasive breast cancer. Exemestane significantly reduced invasive breast cancers in postmenopausal women with minimal quality-of-life differences.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1102287",
+    "text":"The phase 3 RTS,S\/AS01 malaria vaccine trial has shown promising results in seven African countries. The study began in 2009 and enrolled 15,460 children between the ages of 6 weeks and 17 months, with the aim of testing the vaccine's efficacy, safety, and immunogenicity. Results showed that the vaccine had an efficacy of 50.4% in reducing first episodes of clinical malaria in children between 5 and 17 months old, and a 45.1% efficacy in reducing severe malaria. Serious adverse events were reported at a similar frequency in both study groups, but the vaccine did cause seizures in some children. Overall, the study showed that the RTS,S\/AS01 vaccine provides protection against both clinical and severe malaria in African children.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1103507",
+    "text":"Exemestane has been found to reduce the risk of invasive breast cancer in postmenopausal women. A randomized, placebo-controlled, double-blind trial of exemestane was conducted and found that at a median follow-up of 35 months, 11 invasive breast cancers were detected in those given exemestane and 32 in those given a placebo. This represents a 65% relative reduction in the annual incidence of invasive breast cancer. Exemestane was found to have no serious toxic effects and only minimal changes in health-related quality of life. The drug significantly reduced invasive breast cancers in postmenopausal women who were at moderately increased risk for breast cancer.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0907413",
+    "text":"A randomized clinical trial of a monovalent 2009 influenza A (H1N1) vaccine in healthy adults aged 18-64 has found that a single dose of the vaccine is immunogenic with mild-to-moderate vaccine-associated reactions. The trial evaluated two doses of an inactivated, split-virus vaccine, given 21 days apart, with participants either receiving 15\u03bcg or 30\u03bcg of hemagglutinin antigen by intramuscular injection. Antibody titers of 1:40 or more were observed in 95.0% of participants who received the 15\u03bcg dose and in 89.1% of those who received the 30\u03bcg dose by day 21 after the first dose. No serious adverse events were reported, with local discomfort and systemic symptoms being the most commonly reported adverse events.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0804748",
+    "text":"A study of 811 overweight adults has analyzed weight-loss diets that are high in protein, fat, or carbohydrates. The random study placed the adults in one of four diets with varied percentages of energy derived from each. The diets all contained similar foods and met cardiovascular health guidelines, and the participants were offered group and individual instructional sessions for two years. During the first six months of the trial, each participant lost an average of 6kg, equating to 7% of their initial weight, however, weight loss remained stable after the first year before beginning to regain. At the end of the two-year trial, weight loss remained similar for all diets, regardless of protein, carbohydrate, or fat content. Attendees who went to more group sessions had a 0.2kg reduction in weight loss per session attended. Overall, the diets improved lipid-related risk factors and fasting insulin levels.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"Norwegian breast cancer screening programs for women aged between 50-69 years started in 1996 and ran for nine years, with women being offered screening every two years. The program expanded geographically during this period, with screening offered in some areas and not in others. The rates of death from breast cancer in different groups were analyzed to help quantify the effect of screening mammography on breast cancer mortality. The analysis of 40,075 women with breast cancer found the rate of death was reduced by 7.2 deaths per 100,000 person-years in the current screening group compared to a historical screening group. However, screening only accounted for one third of the total reduction of 7.2 deaths.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0804748",
+    "text":"A study of 811 overweight adults assigned to one of four diets with different percentages of fat, protein and carbohydrates found that there was no real difference in weight loss between them. The diets consisted of similar foods and met guidelines for cardiovascular health and participants were given group and individual instructional sessions for two years. At six months, the participants assigned to each diet had lost an average of 6kg, which represented 7% of their initial weight; they began to regain weight after 12 months. By two years, weight loss remained similar in those who were assigned to a diet with 15% protein and those assigned to a diet with 25% protein (3.0 and 3.6 kg, respectively).",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200303",
+    "text":"A Mediterranean diet supplemented with either extra-virgin olive oil or mixed nuts can reduce the incidence of major cardiovascular events, according to a randomized trial conducted in Spain. The trial enrolled 7,447 participants aged between 55 and 80 years who were at high cardiovascular risk, but had no cardiovascular disease. The two Mediterranean diet groups had good adherence to the intervention, according to self-reported intake and biomarker analyses. The primary end-point event occurred in 288 participants, with the two Mediterranean diet groups showing lower rates of events than the control group. No diet-related adverse effects were reported.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200850",
+    "text":"Research conducted by Kaiser Permanente Northern California has shown that protection against pertussis (whooping cough) reduces over time after the fifth dose of the diphtheria, tetanus, and acellular pertussis (DTaP) vaccine. Children in the US are given five doses of DTaP vaccine before the age of seven, although the length of protection after the fifth dose was previously unknown. To test the effectiveness of the vaccine, the study assessed the risk of pertussis in children in California in relation to the time since their fifth dose of DTaP. Results showed that children who received their fifth dose of DTaP earlier had a higher risk of acquiring pertussis than those who received it later. The odds of acquiring pertussis increased by an average of 42% per year following the fifth dose of DTaP. The effectiveness of vaccines and duration of protection are essential for public health officials in prioritising and planning vaccination schedules for children.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"A study has found that sibutramine, a weight loss drug, increases the risk of heart attacks and strokes in patients with pre-existing cardiovascular conditions. Over 10,000 overweight or obese subjects, aged 55 or older, who already had cardiovascular disease or type 2 diabetes were enrolled in the study and received sibutramine at the start of their weight management programme, followed by either sibutramine or a placebo for an average of 3.4 years. The risk of non-fatal heart attacks and strokes increased in the sibutramine group compared to the placebo group. However, there was no increase in the rates of cardiovascular death or death from any cause. The study highlights the importance of carefully considering the risks and benefits of using weight loss drugs in patients with pre-existing cardiovascular conditions.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1206809",
+    "text":"Cancer screening programs are vital for early detection which is vital for reducing lives lost to breast cancer. They are constantly researching cancer and studying from the past 40 years to help eradicate breast cancer. They are constantly seeking knowledge in order to find more ways to stop cancer. Mammograms have significantly increased the early detection rates, which is a good thing. The rate at which women present with late stage breast cancer has decreased quite a bit. While there is still no cure, women are being treated earlier and thus are becoming cancer free and living at higher rates, than in previous years. Breast cancer has been commonly misdiagnosed because of the presence of benign tumors and similar issues, some caused by hormone replacement therapy. So the statistics about diagnoses, are not as accurate as they may seem at first glance. There is still a long way to go to lower the rate of late stage detection. Screening only has a small effect on the death rate. ",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1206809",
+    "text":"The introduction of screening mammography in the United States has led to a doubling in the number of early-stage breast cancer cases detected each year, from 112 to 234 per 100,000 women, resulting in an absolute increase of 122 cases per 100,000 women. Meanwhile, the rate of patients presenting with late-stage cancer has decreased by 8% from 102 to 94 cases per 100,000 women, an absolute decrease of 8 cases per 100,000 women. However, the study suggests that only 8 of the 122 additional early-stage cancers diagnosed were expected to progress to advanced disease. Breast cancer was overdiagnosed and detected on screening in 1.3 million US women in the past 30 years, according to the study, and in 2008, breast cancer was overdiagnosed in more than 70,000 women, accounting for 31% of all breast cancers diagnosed.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1112010",
+    "text":"A large study has found that drinking coffee may be associated with lower risk of death from various causes including heart disease and respiratory disease. The study involved over 200,000 men and women aged between 50 and 71 enrolled in the US National Institutes of Health \u2013 AARP Diet and Health Study. Participants were asked about their coffee intake once at the beginning of the study and then followed up for about 16 years. The risk of death was higher among coffee drinkers in the age-adjusted model. However, after adjusting for smoking and other potential confounders, the study found a significant inverse association between coffee consumption and mortality. The study did not establish whether there is a causal link between coffee drinking and lower mortality rates.\u00a0\n",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0804748",
+    "text":"A study was conducted to compare the effectiveness of weight-loss diets with different fat, protein, and carbohydrate compositions. 811 overweight adults were randomly assigned to one of four diets with different targeted percentages of energy from fat, protein, and carbohydrates. The diets consisted of similar foods and met guidelines for cardiovascular health. Participants were offered group and individual instructional sessions for two years. The primary outcome was the change in body weight after two years. At six months, participants in each diet lost an average of 6 kg. By two years, the weight loss remained similar, with satiety, hunger, satisfaction with the diet, and attendance at group sessions being similar for all diets. The diets improved lipid-related risk factors and fasting insulin levels.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa021134",
+    "text":"A new study has disproven the theory that the measles, mumps, and rubella (MMR) vaccine is a cause of autism. Researchers conducted a retrospective cohort study of all children born in Denmark from 1991 to 1998 and found that there was no association between MMR vaccination and the development of autism. The study, which had over 500,000 participants, found that after adjusting for potential confounding factors, the relative risk of autistic disorder in vaccinated children was 0.92, and the relative risk of another autistic-spectrum disorder was 0.83. The study provides strong evidence against the hypothesis that MMR vaccination causes autism.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0804748",
+    "text":"A study of 811 overweight adults has found that diets that emphasise protein, fat or carbohydrates do not offer any particular advantage for weight loss. Participants were randomly assigned to one of four diets, with the targeted percentages of energy from fat, protein and carbohydrates ranging between 20-65%, 15-25% and 35-65% respectively. The diets were similar in terms of food type and adhered to cardiovascular health guidelines. Participants were offered instructional sessions for two years. At six months, the average weight loss was 6kg, which represented 7% of the initial weight, but weight started to be regained after 12 months. By the end of the two-year study, weight loss remained similar in all groups.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1103507",
+    "text":"Exemestane could significantly help prevent invasive breast cancer in postmenopausal women, according to a new trial. While tamoxifen and raloxifene are still used for breast cancer prevention, they have limited patient acceptance in some cases. Aromatase inhibitors can prevent more contralateral breast cancers and cause fewer side effects, but have not been widely used for prevention. In the trial, 4,560 women were assigned to either exemestane or a placebo, with the former group experiencing a 65% relative reduction in the annual incidence of invasive breast cancer compared to the latter. There were no serious toxic effects and minimal changes in health-related quality of life.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"Long term effects of sibutramine have not been established as of yet. A study enrolled 10,744 overweight or obese subjects that were all 55 years old or older and had preexisting cardiovascular disease and\/or type 2 diabetes mellitus. Subjects received sibutramine and participation in weight-management programs for the 6-week, single-blind, lead-in period. After 9804 subjects had random assignment in a double-blind fashion to sibutramine. The mean duration of the treatment was 3.4 years. The mean weight loss during the lead-in period was 2.6 kg, after randomization the subjects in the sibutramine group maintained further weight reduction. Mean blood pressure decresed in both groups, more so in the placebo group. Rates of nonfatal myocardial infarction and nonfatal strokes were higher in the sibutramine group. Cardiovascular death rates did not increase. Subjects with preexisting cardiovascular conditions receiving siburatmine treatment had an increased risk of nonfatal myocardial infarction and nonfatal strokes but no increase risk to cardiovascular death or death from any cause.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1112010",
+    "text":"A study by the National Institutes of Health has found a link between coffee consumption and a decreased risk of overall mortality, as well as deaths due to heart disease, respiratory disease, stroke, injuries and accidents, diabetes, and infections. The study did not find a link between coffee consumption and the risk of death due to cancer. The study involved over 400,000 participants, with coffee consumption assessed once at baseline. In age-adjusted models, the risk of death was higher among coffee drinkers, but this was attributed to the fact that coffee drinkers were more likely to smoke. After adjusting for smoking and other confounding factors, there was a significant inverse association between coffee consumption and mortality.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa021134",
+    "text":"A study was conducted in Denmark to investigate the link between measles, mumps, and rubella (MMR) vaccination and autism. The study analyzed data from all children born in Denmark from January 1991 to December 1998 and found that of the 537,303 children in the cohort, 440,655 had received the MMR vaccine. The study identified 316 children with a diagnosis of autistic disorder and 422 with a diagnosis of other autistic-spectrum disorders. After adjusting for potential confounders, the study found no association between MMR vaccination and the development of autistic disorder or other autistic-spectrum disorders. The study provides strong evidence against the hypothesis that MMR vaccination causes autism.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"The long-term effects of sibutramine, a weight loss drug, on cardiovascular outcomes in overweight and obese subjects with preexisting cardiovascular diseases were studied. Over 10,000 subjects were enrolled, with all receiving sibutramine during a 6-week period. Following this, subjects were randomly assigned to either sibutramine or a placebo, and the primary endpoint was the time to the first occurrence of a primary outcome event. After a mean duration of 3.4 years of treatment, subjects who received sibutramine had a higher risk of nonfatal myocardial infarction and nonfatal stroke than those who received a placebo. However, there was no increased risk of cardiovascular death or death from any cause. Subjects with preexisting cardiovascular conditions who receive long-term sibutramine treatment may have an increased risk of nonfatal cardiovascular events.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0804748",
+    "text":"A study has shown that diets that have different proportions of fat, protein, and carbohydrates do not affect weight loss. 811 overweight adults were randomly assigned to one of four diets, each with varying percentages of fat, protein, and carbohydrates. The diets were similar in terms of foods, and participants were offered group and individual instructional sessions for two years. At six months, participants lost an average of 6kg, which was 7% of their initial weight, but began to regain weight after 12 months. By two years, weight loss remained similar in all groups. However, the diets did improve lipid-related risk factors and fasting insulin levels. Satiety, hunger, satisfaction with the diet, and attendance at group sessions were similar for all diets.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1103507",
+    "text":"Aromatase inhibitors are better to use in the treatment of breast cancer than tamoxifen or raloxifene. A recent study found that one of these, exemestane was particularly effective in reducing invasive breast cancers in the subjects of the study. Compared to individuals given a placebo, it was found that there was a 65% reduction in incidence of these invasive breast cancers. The study found that there were only very slightly more adverse effects in the group receiving the treatment as opposed to those simply receiving a placebo. This shows that exemestane effected quality of life about as much as those who did not receive medication. It was found, in a 3 year follow-up, that the treatment had no serious toxic effects and effected quality of life minimally. To qualify for this study, the women involved were all post-menopausal and had an increased risk of developing invasive breast cancer. ",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"The long-term effects of sibutramine on cardiovascular events and deaths among those at high risk have not been established. A study enrolled 10,744 overweight or obese subjects with preexisting cardiovascular disease or diabetes who were over 55 years of age to assess the cardiovascular consequences of weight management with and without sibutramine. All subjects received sibutramine for six weeks, followed by random assignment to sibutramine or placebo. Primary endpoint was nonfatal myocardial infarction, nonfatal stroke, resuscitation after cardiac arrest, or cardiovascular death. The mean weight loss during the lead-in period was 2.6 kg, and after randomisation, the subjects in the sibutramine group further lost weight (mean, 1.7 kg). Primary outcome events occurred in 11.4% in the sibutramine group compared to 10.0% in the placebo group. However, subjects with preexisting cardiovascular conditions receiving long-term sibutramine treatment had an increased risk of nonfatal myocardial infarction and nonfatal stroke, but not of cardiovascular death or death from any cause.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0804748",
+    "text":"A study of 811 overweight adult participants across 4 diets has found no significant difference in 2-year weight loss results between the 4 diets, which were targeted to have different percentages of energy derived from fat, protein, and carbohydrates. The participants lost an average of 6kg at 6 months (7% of their initial weight), with weight loss and regain remaining similar in all groups after 2 years. However, 14-15% of the participants had a reduction of at least 10% of their initial body weight and the diets improved lipid-related risk factors and fasting insulin levels. Attendance at group sessions was also strongly associated with weight loss. The diets in the study consisted of similar foods and met guidelines for cardiovascular health.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0804748",
+    "text":"A study examined the impact of diets emphasizing protein, fat, or carbohydrates on weight loss over two years in 811 overweight adults. The diets met cardiovascular health guidelines and consisted of four different targeted percentages of energy derived from fat, protein, and carbohydrates. After six months, participants in each group had lost an average of 6kg (7% of initial weight), but began to regain some weight after 12 months. After two years, there was no significant difference in weight loss between groups. Those on diets with 15% protein or 25% protein lost a similar amount of weight, as did those on diets with 20% or 40% fat, and those on diets with 65% or 35% carbohydrates. The diets improved lipid-related risk factors and fasting insulin levels, and group attendance was strongly associated with weight loss.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1112010",
+    "text":"Researchers have conducted a study examining the association between coffee consumption and the risk of death. The results showed that coffee drinking had a significant inverse association with mortality, with the adjusted hazard ratios for death among men and women who drank coffee decreasing as the number of cups consumed per day increased. The inverse associations were observed for deaths due to heart disease, respiratory disease, stroke, injuries and accidents, diabetes, and infections, but not for deaths due to cancer. The study was conducted among over 400,000 people and is one of the largest prospective studies on the topic. The researchers noted that whether the association is causal or associational remains unclear.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1304127",
+    "text":"Data was collected from surveys on sodium intake as determined by urinary excretion and diet in people from 66 countries and was used to quantify the global consumption of sodium according to age, sex and country. The effects of sodium on blood pressure, according to age, race and the presence or absence of hypertension were calculated in a new meta-analysis of 107 random interventions. Cause specific mortality was derived from the Global Burden of Disease Study 2010. The estimated mean level of global sodium consumption was 3.95g\/day and regional mean levels ranged from 2.18 to 5.51g\/day. Globally 1.65 million annual deaths from cardiovascular causes were attributed to sodium intake above the 2.0 g\/day reference level; 61.9% were men and 38.1 were women. These deaths accounted for 1 of every 10 deaths from cardiovascular causes. 4 of every 5 deaths occurred in low and middle income countries and 2 out of 5 were premature before age 70. The highest death rates from cardiovascular causes associated with high sodium intake was in the country of Georgia and lowest in Kenya.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1200850",
+    "text":"A study has found that protection against pertussis, also known as whooping cough, wanes during the five years following the fifth dose of diphtheria, tetanus, and acellular pertussis (DTaP) vaccine administered to children. The research involved a case-control study of children in California, comparing those with confirmed cases of pertussis with two sets of controls: those who were PCR-negative for pertussis, and closely matched controls from the general population of health-plan members. The findings indicated that after the fifth dose of DTaP, the odds of acquiring pertussis increased by an average of 42% per year. The research provides insight into the duration of protection provided by the DTaP vaccine.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"This study was about the effects on screening mammography on breast cancer in Norway. The availability of screening mammography  which was offered a mammography screening every two years and has been associated with a reduction in the rate of death from breast cancer. The historical use of control subjects does not take into account chronologic trends associated with advances in breast cancer. The chronologic trends associated with a reduction in the rate of death from breast cancer, but the studys screening itself accounted for only about a third of the total reduction.  The program was started in 1996 in Norway and expanded in following years to other countries. There were approximately 40,000 aged between fifty through sixty nine women who took part in this study. The rate of death dropped by 7.2 per 100,000 people for the final result. This project was funded by the Cancer Registry of Norway and the research council of Norway.",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1304127",
+    "text":"A new study suggests that high levels of sodium consumption in the diet lead to cardiovascular disease and a risk of early death. Scientists studied data from 66 countries,\u00a0representing\u00a074.1% of\u00a0adults in the world, looking at surveys of sodium intake based on urinary excretion and diet.\u00a0The research analysed\u00a0data from a new meta-analysis of 107 randomised interventions to calculate the effects of sodium on blood pressure, according to race, age and the presence or absence of high blood pressure. It found 1.65 million annual deaths from cardiovascular causes were attributed to sodium intake above the reference level of 2g per day, with 61.9% of deaths in men and 38.1% in women. Almost 85% of deaths were in low- to middle-income countries.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0907413",
+    "text":"A randomized, observer-blind, parallel-group trial in Australia evaluated the immunogenicity and safety of a 2009 influenza A (H1N1) vaccine in healthy adults between the ages of 18 and 64 years. The vaccine was given in two doses, 21 days apart, with 240 subjects randomly allocated to receive either 15 \u03bcg or 30 \u03bcg of hemagglutinin antigen by intramuscular injection. By day 21 after the first dose, 95.0% of subjects who received the 15-\u03bcg dose had antibody titers of 1:40 or more, compared to 89.1% who received the 30-\u03bcg dose. No serious adverse events were reported, with local discomfort and systemic symptoms being mild to moderate in intensity. The study found that a single 15-\u03bcg dose of the vaccine was immunogenic in adults.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1206809",
+    "text":"The introduction of screening mammography in the US has been associated with the detection of a doubling in the number of early-stage breast cancer cases annually. This translates as an absolute increase of 122 cases per 100,000 women, from 112 to 234 cases. The rate at which women present with late-stage cancer has decreased by just 8%. This absolute decrease of eight cases per 100,000 women equated to a fall from 102 cases to 94. Based on the assumption of a constant underlying disease burden, only eight of the 122 extra early-stage cancers were expected to progress to advanced disease. In the past 30 years, breast cancer was overdiagnosed in 1.3 million US women, accounting for almost a third of all newly diagnosed breast cancers.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa021134",
+    "text":"A study was conducted on over 500,000 children in Denmark born between 1991 and 1998 to investigate whether there is a link between vaccination against measles, mumps, and rubella (MMR) and autism. Of the children studied, 82% had received the MMR vaccine. The study found no association between MMR vaccination and the development of autistic disorder, after adjusting for potential confounding factors. The relative risk of autistic disorder in vaccinated children, compared to unvaccinated children, was 0.92, meaning there was no increased risk for vaccinated children. The study provides strong evidence against the hypothesis that MMR vaccination causes autism.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1206809",
+    "text":"Thirty years of academic study have shown that breast cancer screening programs do not reduce the rate with which women develop advanced cancer. Effective screening must not only increase cancer detection in early stages, but also decrease the incidence of patients developing cancer later. The study used three types of cancer detection data gathered between the years of 1976 and 2008. &#13;Early evidence was promising. Screening mammography in the US has doubled the number of early stage breast cancer patients detected per year. Also, the rate of late stage cancers reported has dropped 8%. However, the incidence of overdiagnosis - for example the finding of non symptomatic tumors - was high, with researchers estimating at least 1.3 million overdiagnosises have occurred in the past 30 years. In 2008 alone, it was estimated that 31% of all breast cancer diagnosises were overdiagnosed. This new information suggests that mammography screening is having a limited effect on the rate of fatal breast cancers. ",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa072761",
+    "text":"A study has found a significant link between the use of rosiglitazone and a higher risk of myocardial infarction (MI), as well as an increase in the risk of death from cardiovascular causes. The research involved 116 potentially relevant studies, 42 of which met the inclusion criteria for the meta-analysis. Patients and providers should note the potential for adverse cardiovascular effects of the diabetes drug, despite limitations in the study caused by a lack of source data. Rosiglitazone is commonly used to treat type 2 diabetes mellitus, but its impact on cardiovascular morbidity and mortality had not been established prior to this research.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"A study has found that mammography screening can reduce the rate of death from breast cancer, but only a third of the reduction can be attributed to the screening itself. The Norwegian breast-cancer screening programme, which began in 1996 and was expanded over nine years, was analysed for four groups. These comprised women between 50 and 69 years old who lived in counties with or without screening from 1996 to 2005, and two historical-comparison groups. The rate of death was reduced by 7.2 deaths per 100,000 person-years in the screening group, compared to the historical screening group, and by 4.8 deaths per 100,000 person-years in the nonscreening group, compared to the historical nonscreening group.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0907413",
+    "text":"A new influenza A virus is the reason for a recent influenza pandemic. In order to create an appropriate vaccine, a group trial in healthy adults will be conducted in Australia. &#13;The study was split into two groups: one that received more of the injection than the other. Different measurements were then taken after three weeks. This was done to evaluate the immunogenicity and safety of the vaccine after the doses. &#13;Three weeks after the first vaccine was administered, it was found that 95% of the recipients who had received the lower dosage had appropriate levels. Of those who received the higher dose, 89.1% had appropriate levels. Similar findings were reported after the second vaccine administration. No serious adverse symptoms were reported, however, 56.3% of recipients reported local discomfort and 53.8% of recipients reported systemic symptoms.&#13;This concludes that a single dose of the lesser amount is immunogenic in adults. ",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1404037",
+    "text":"The use of the aromatase inhibitor exemestane in conjunction with ovarian suppression is an effective treatment for premenopausal women with hormone-receptor-positive early breast cancer, according to a study in the New England Journal of Medicine. Preliminary results show that exemestane plus ovarian suppression leads to a higher rate of disease-free survival compared with tamoxifen. The study, which involved 4,690 patients, found that the rate of freedom from breast cancer at five years was 92.8% with exemestane, versus 88.8% for tamoxifen. Exemestane did not show a statistically significant difference in overall survival with tamoxifen.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa0907413",
+    "text":"A vaccine for the influenza A (H1N1) virus, responsible for the first influenza pandemic in 41 years, is needed. Trials have begun on an inactivated, split-virus 2009 H1N1 vaccine that is being evaluated for safety and efficacy on healthy adults aged between 18 and 64. The vaccine is safe, and subjects who received a single 15-\u03bcg dose had a high antibody response. Further data is being collected after receiving a second dose. No deaths, serious adverse events, or adverse events of special interest were reported, only mild-to-moderate vaccine-associated reactions.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200303",
+    "text":"A randomized trial conducted in Spain has found that a Mediterranean diet supplemented with extra-virgin olive oil or mixed nuts can reduce the risk of cardiovascular events among those at high cardiovascular risk. The trial enrolled 7,447 participants aged 55 to 80 years who were at high cardiovascular risk, but with no cardiovascular disease at enrollment. Participants were randomly assigned to one of three diets; a Mediterranean diet supplemented with extra-virgin olive oil, a Mediterranean diet supplemented with mixed nuts, or a control diet. The primary end-point event occurred in 288 participants, with the two Mediterranean-diet groups having good adherence to the intervention. No diet-related adverse effects were reported.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"A study enrolled 10744 overweight or obese 55 yr olds w\/ preexisting cardiovascular disease, Type II DM or both to assess cardiovascular consequences of weight mgmt w\/ &amp; without sibutramine in subjects at high risk of cardiovascular events. All received sibutramine in addition to participating in a weight mgmt program during a 6 week single blind lead-in period after which 9804 subjects underwent random assignment in a double-blind fashion to sibutramine (4906) or placebo (4898). The primary end point was the time from randomization to the 1st occurrence of a primary outcome event (nonfatal MI, nonfatal stroke, resuscitation after cardiac arrest or cardiovascular death). The mean duration of treatment was 3.4 yrs. The mean weight loss during the lead-in period was 2.6kg. The blood pressure decreased in both groups, greater reductions in placebo group. Subjects with preexisting cardiovascular conditions who were receiving long-term sibutramine treatment had an increased risk of nonfatal myocardial infarction and nonfatal stroke but not of cardiovascular death or death from any cause. ",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1200850",
+    "text":"A study has found that protection against pertussis, commonly known as whooping cough, waned over time after children received their fifth dose of diphtheria, tetanus, and acellular pertussis (DTaP) vaccine in California from 2006 to 2011. The research compared 277 children aged between four and 12 years who were PCR-positive for pertussis, the disease caused by the pertussis bacterium, with 3318 PCR-negative controls and 6086 matched controls. The data showed that PCR-positive children were more likely to have received the fifth DTaP dose earlier than PCR-negative controls, indicating that the odds of acquiring pertussis increased by an average of 42% per year following the fifth dose of DTaP.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200303",
+    "text":"A study published in the New England Journal of Medicine has found that a Mediterranean diet supplemented with extra-virgin olive oil or nuts reduced the incidence of major cardiovascular events among people with high cardiovascular risk. The study randomly assigned participants to one of three diets: a Mediterranean diet supplemented with extra-virgin olive oil, a Mediterranean diet supplemented with mixed nuts, or a control diet. Participants received quarterly educational sessions and free provision of either extra-virgin olive oil, mixed nuts, or small non-food gifts. The study found that the two Mediterranean diet groups had good adherence to the intervention, with no diet-related adverse effects reported. The trial was stopped after a median follow-up of 4.8 years.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa021134",
+    "text":"A study conducted in Denmark has provided evidence against the theory that the measles, mumps and rubella (MMR) vaccine causes autism. The study was a retrospective cohort study of all children born in Denmark between 1991 and 1998. The MMR vaccination status was obtained from the Danish National Board of Health, and the autism status was obtained from the Danish Psychiatric Central Register. After adjusting for potential confounders, the study found that there was no association between MMR vaccination and the development of autism. The study provides strong evidence against the hypothesis that the MMR vaccine causes autism.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1014296",
+    "text":"The link between diet, lifestyle and long-term weight gain has been explored in a study of 120,877 US women and men. The participants were not obese at baseline and had no chronic diseases. Over the follow-up period, participants gained an average of 3.35lb every four years. The study found that certain dietary factors had the strongest association with weight gain, such as increased servings of potato chips, sugar-sweetened beverages, unprocessed red meats and processed meats. Conversely, those who increased their intake of vegetables, whole grains, fruits, nuts and yogurt were associated with less weight gain. Other lifestyle factors, including physical activity and sleep, were also independently associated with weight gain. The findings could help inform strategies to prevent obesity.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"A study of over 10,000 overweight or obese participants, aged 55 or over, with pre-existing cardiovascular disease, type 2 diabetes, or both, found that those receiving long-term sibutramine treatment had increased risks of nonfatal myocardial infarction and nonfatal stroke. The study aimed to assess the cardiovascular consequences of weight management with or without sibutramine in subjects at high risk of cardiovascular events. Results showed that the risk of a primary outcome event was 11.4% in the sibutramine group compared to 10.0% in the placebo group. However, the rates of cardiovascular death and death from any cause were not increased. The mean weight loss during the study was 2.6kg, with further weight reduction achieved and maintained in the sibutramine group.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1000727",
+    "text":"A study has found that screening mammography reduces the rate of death from breast cancer, however, the screening itself is only accountable for around a third of the reduction. The challenge with assessing the effect of screening mammography on breast-cancer mortality is providing valid comparison groups. The Norwegian breast-cancer screening program was established in 1996. Women aged 50-69 were offered screening mammography every\u00a0two years. The study analysed data from over 40,000 women with breast cancer and found that the rate of death was reduced by 7.2 deaths per 100,000 person-years\u00a0in the screening group as compared with the historical screening group. The difference in the reduction in mortality between the current and historical groups was 2.4 deaths per 100,000 person-years due to screening alone.\u00a0",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200303",
+    "text":"A study has shown that a Mediterranean diet supplemented with either extra-virgin olive oil or nuts can reduce the incidence of major cardiovascular events in those at high risk of cardiovascular disease. The trial was conducted in Spain and saw over 7,000 individuals enrolled and randomly assigned to one of three diets: a Mediterranean diet supplemented with olive oil, one supplemented with nuts, or a control group advised to reduce dietary fat. The Mediterranean groups demonstrated good adherence to the diets and an end-point event occurred in 288 participants. Multivariable-adjusted hazard ratios were seen to be lower in the Mediterranean diet groups, with no reported adverse effects.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1200850",
+    "text":"A study that looked at the risk of pertussis in children found that protection against pertussis decreased in the five years following the fifth dose of the DTap vaccine, which is the typical dosage.  The study, done in California on members of Kaiser Permanente Nothern California, included a group of children who were vaccinated approximately between ages 4 and 7; children who were vaccinated as infants or those who had received more than five doses were excluded.  A group of children that had pertussis was compared against two control groups.  The polymerase-charin-reaction (PRC) status of the children was also taken into account.  The risk of pertussis as it related to time that had elapsed since the fifth DTaP dose was then examined.  Those calculations showed that after the fifth dose of DTap, it became increasingly likely to acquire pertussis: the risk went up by 42% per year, on average.  ",
+    "label":"real"
+  },
+  {
+    "HITId":"NEJMoa1003833",
+    "text":"A study of a Tennessee Medicaid cohort has suggested that azithromycin, often prescribed as a form of antibiotic,\u00a0may increase the risk of cardiovascular death. While traditionally it has been thought that the drug has minimal cardiotoxicity, the study found an increased risk\u00a0during five\u00a0days of therapy, compared to those who took no antibiotics, with an estimated 47 additional cardiovascular deaths per 1 million courses. It was also noted that the risk was greatest among patients with a high baseline risk of cardiovascular disease.\n",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003833",
+    "text":"A recent study has highlighted the potential risk of cardiovascular death associated with the antibiotic azithromycin. Researchers studied a cohort of Tennessee Medicaid patients, including those who had taken azithromycin, amoxicillin, ciprofloxacin, or levofloxacin. Patients taking azithromycin had a significantly increased risk of cardiovascular death compared to those who took no antibiotics, with an estimated 47 additional cardiovascular deaths per 1 million courses. Furthermore, the risk of cardiovascular death was significantly greater with azithromycin than with ciprofloxacin. Although azithromycin is considered to have minimal cardiotoxicity, this study suggests it may increase the risk of cardiovascular death, particularly for patients with a high baseline risk of cardiovascular disease.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa072761",
+    "text":"Rosiglitazone, a drug used to treat type 2 diabetes, has been found to increase the risk of myocardial infarction and death from cardiovascular causes, according to a meta-analysis of 42 trials. The study, which combined data from randomised control groups and outcome data for myocardial infarction and death from cardiovascular causes, revealed the odds ratio for myocardial infarction was 1.43 and the odds ratio for death from cardiovascular causes was 1.64. Although the increase in risk of death was only borderline significant, patients and providers should consider the potential for serious adverse cardiovascular effects. The study was limited by a lack of access to original source data.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1103507",
+    "text":"Exemestane is a drug that has been found to reduce the incidence of breast cancer by 65% in postmenopausal women who have a moderate risk of developing the disease. The drug was tested in a double-blind, placebo-controlled trial on patients over 35 with risk factors such as 60 years of age or older, prior atypical ductal or lobular hyperplasia or ductal carcinoma in situ. A total of 4560 women were tested, with 11 invasive breast cancers detected in the exemestane group and 32 in the placebo group. The drug had minimal changes in the quality of life and no serious side\u00a0effects. Exemestane was found to be more effective than tamoxifen and raloxifene.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1003114",
+    "text":"The long-term effects of sibutramine treatment on cardiovascular outcomes for overweight and obese subjects have not been established. Researchers enrolled 10,744 participants aged 55 years or older, with preexisting cardiovascular disease, type 2 diabetes mellitus, or both, to assess how weight management with or without sibutramine affects cardiovascular events among those at high risk. Subjects were given sibutramine during a 6-week single-blind period and were randomly assigned in a double-blinded manner to sibutramine or placebo, with a mean treatment duration of 3.4 years. The sibutramine group lost more weight, but had a higher risk of nonfatal myocardial infarction and nonfatal stroke than the placebo group. The risk of cardiovascular death or death from any cause was not increased.",
+    "label":"synthetic"
+  },
+  {
+    "HITId":"NEJMoa1112010",
+    "text":"A study by the National Institutes of Health-AARP Diet and Health Study of 229,119 men and 173,141 women aged 50 to 71 found that coffee consumption is inversely associated with total and cause-specific mortality.\u00a0The study found there was a significant inverse association between coffee consumption and mortality, with the adjusted hazard ratios for death among men who drank coffee as compared with those who did not being 0.99 for drinking less than one cup per day, 0.94 for one cup, 0.90 for two or three cups, 0.88 for four or five cups, and 0.90 for six or more cups of coffee per day. The respective hazard ratios among women were 1.01, 0.95, 0.87, 0.84, and 0.85. The study found that inverse associations were observed for deaths due to heart disease, respiratory disease, stroke, injuries and accidents, diabetes, and infections, but not for deaths due to cancer.\u00a0\n",
+    "label":"synthetic"
+  }
+]
