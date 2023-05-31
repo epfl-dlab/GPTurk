@@ -26,7 +26,15 @@ class DataTemplates:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["text"],
-                template="""Read a 400-word text with medicine-related information and write a 100-word summary.\n\nText: {text}""",
+                template="""You will be given a short text (around 400 words) with medicine-related information.
+
+Your task is to:
+
+Read the text carefully.
+Write a summary of the text. Your summary should:
+Convey the most important information in the text, as if you are trying to inform another person about what you just read.
+Contain at least 100 words.
+We expect high quality summaries and will manually inspect some of them\n\nText: {text}""",
             )
         )
         return [human_message]
