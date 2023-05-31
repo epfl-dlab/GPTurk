@@ -33,18 +33,25 @@
 
         divElement.setAttribute("value", JSON.stringify(keysPressed));
 // Output the keysPressed string to the console
-        console.log(keysPressed);
     });
 
     document.addEventListener('paste', function (event) {
-        console.log('User pasted content');
         const date = new Date();  // Moved date inside this function
         // Append the pasted data to the keysPressed array
         keysPressed.push(['paste', event.clipboardData.getData('text'), date.toISOString()]);
         const divElement = document.getElementById("hf");
         divElement.setAttribute("value", JSON.stringify(keysPressed));
 
-        console.log(keysPressed);
+    });
+
+    document.addEventListener('copy', function (event) {
+        const date = new Date();  // Moved date inside this function
+        // Append the pasted data to the keysPressed array
+
+        keysPressed.push(['copy', window.getSelection().toString()]);
+        const divElement = document.getElementById("hf");
+        divElement.setAttribute("value", JSON.stringify(keysPressed));
+
     });
 
 
@@ -92,5 +99,4 @@
         </crowd-button>
     </crowd-form>
 </div>
-
 
