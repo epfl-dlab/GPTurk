@@ -36,14 +36,15 @@
         console.log(keysPressed);
     });
 
-    // Event listener for paste event
     document.addEventListener('paste', function (event) {
         console.log('User pasted content');
+        const date = new Date();  // Moved date inside this function
         // Append the pasted data to the keysPressed array
         keysPressed.push(['paste', event.clipboardData.getData('text'), date.toISOString()]);
+        const divElement = document.getElementById("hf");
         divElement.setAttribute("value", JSON.stringify(keysPressed));
 
-        console.log(event.clipboardData.getData('text'));
+        console.log(keysPressed);
     });
 
 
