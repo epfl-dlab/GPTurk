@@ -26,6 +26,7 @@ def prepare_data(df, setting):
         train_questions = np.random.choice(all_questions, 11)
         q_set = set(all_questions)
         test_questions = list(q_set - set(train_questions))
+
         # val_questions = [test_questions[0]]
         # test_questions = test_questions[1:]
 
@@ -36,7 +37,6 @@ def prepare_data(df, setting):
         train.to_json(os.path.join(data_dir, "train_inductive.json"), orient="records", indent=2)
         # val.to_json(os.path.join(data_dir, "val_inductive.json"), orient="records", indent=2)
         test.to_json(os.path.join(data_dir, "test_inductive.json"), orient="records", indent=2)
-        
                 
     else:
         raise NotImplementedError("Setting needs to be inductive or transductive.")
