@@ -8,5 +8,6 @@ This is an **in progress** repository of the paper.
 4. Train model (see below)
 5. Plotting and detection (`3_finetuned_classifying.ipynb`)
 
-## Fine-tuning the model (merging with main repository)
+
+## Fine-tuning the model
 Model finetuning was largely based on the code-repository found [here](https://github.com/AGMoller/worker_vs_gpt/). We are currently in the process of adding the relevant fine-tuning code here.
