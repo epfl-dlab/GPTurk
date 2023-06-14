@@ -17,3 +17,15 @@ Here's a breakdown of the notebooks included in the repository and the purpose o
 The process of fine-tuning the model was largely based on the code repository found [here](https://github.com/AGMoller/worker_vs_gpt/). We are in the process of integrating the relevant fine-tuning code into this repository. 
 
 _Note: Information about the training of the model will be added once the process is completed._
+
+## Citation
+
+```bibtex
+@misc{veselovsky2023artificial,
+      title={Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks}, 
+      author={Veniamin Veselovsky and Manoel Horta Ribeiro and Robert West},
+      year={2023},
+      eprint={2306.07899},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
