@@ -1,13 +1,19 @@
-# Artificial artificial artificial intelligence (in progress)
-This is an **in progress** repository of the paper. 
+# Artificial Artificial Artificial Intelligence (In Progress)
 
-## Structure
-1. Process the original responses (`0_exploration.ipynb`)
-2. Generate new responses using ChatGPT (`1_generation.ipynb`)
-3. Prepare training data (`2_prepare_for_training.ipynb`)
-4. Train model (see below)
-5. Plotting and detection (`3_finetuned_classifying.ipynb`)
+This repository hosts the work in progress related to our paper `Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks`
 
+## MTurk Responses
+The original responses and abstracts are made available at `summaries.csv` and `abstracts_final.csv`. Additionally, the code to re-create the human intellgience task (HIT) is at `hit.html`. The processed data, new batches, and predictions are left in `data/`. 
 
-## Fine-tuning the model
-Model finetuning was largely based on the code-repository found [here](https://github.com/AGMoller/worker_vs_gpt/). We are currently in the process of adding the relevant fine-tuning code here.
+## Repository Structure
+Here's a breakdown of the notebooks included in the repository and the purpose of each:
+
+1. `0_exploration.ipynb` - Processing the original responses.
+2. `1_generation.ipynb` - Generating new responses using ChatGPT.
+3. `2_prepare_for_training.ipynb` - Preparing the training data.
+4. `3_finetuned_classifying.ipynb` - Plotting and detection post-training.
+
+## Fine-Tuning the Model
+The process of fine-tuning the model was largely based on the code repository found [here](https://github.com/AGMoller/worker_vs_gpt/). We are in the process of integrating the relevant fine-tuning code into this repository. 
+
+_Note: Information about the training of the model will be added once the process is completed._
