@@ -1,0 +1,102 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<style>
+
+    @media (min-device-width: 320px) {
+        p, h3, li, ul, #myfreakingbutton, textarea {
+            font-size: 2rem;
+
+
+        }
+    }
+
+    @media (min-device-width: 600px) {
+        p, h3, li, ul, #myfreakingbutton, textarea {
+            font-size: 1.25rem;
+        }
+    }
+
+</style>
+
+<script>
+    // Initialize an empty string to store the pressed keys
+    let keysPressed = [];
+    // Event listener for keydown event
+    document.addEventListener("keydown", (event) => {
+        // Get the pressed key
+        const keyPressed = event.key;
+        const date = new Date();
+// Append the pressed key to the keysPressed string
+        keysPressed.push(["key", keyPressed, date.toISOString()])
+        const divElement = document.getElementById("hf");
+
+        divElement.setAttribute("value", JSON.stringify(keysPressed));
+// Output the keysPressed string to the console
+    });
+
+    document.addEventListener('paste', function (event) {
+        const date = new Date();  // Moved date inside this function
+        // Append the pasted data to the keysPressed array
+        keysPressed.push(['paste', event.clipboardData.getData('text'), date.toISOString()]);
+        const divElement = document.getElementById("hf");
+        divElement.setAttribute("value", JSON.stringify(keysPressed));
+
+    });
+
+    document.addEventListener('copy', function (event) {
+        const date = new Date();  // Moved date inside this function
+        // Append the pasted data to the keysPressed array
+
+        keysPressed.push(['copy', window.getSelection().toString()]);
+        const divElement = document.getElementById("hf");
+        divElement.setAttribute("value", JSON.stringify(keysPressed));
+
+    });
+
+
+</script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+
+
+<div style="text-align: center;" id="maindiv">
+    <crowd-form>
+
+        <div style="margin: 7pt; padding: 7pt;  border: 1px solid #333; width:75%; display:inline-block; text-align: left">
+            <h3>Instructions</h3>
+            <p>You will be given a short text (around 400 words) with medicine-related information. </p>
+
+            <p>Your task is to: </p>
+
+            <ul>
+                <li>Read the text carefully.</li>
+                <li>Write a summary of the text. Your summary should:</li>
+                <ul>
+                    <li>Convey the most important information in the text, as if you are trying to inform another person about what you just read.</li>
+                    <li>Contain at least 100 words.</li>
+                </ul>
+            </ul>
+
+            <p>We expect high quality summaries and will manually inspect some of them.</p>
+
+
+        </div>
+
+        <div style="margin: 7pt; padding: 7pt;  border: 1px solid #333; width:75%; display:inline-block; text-align: left">
+            <p style="white-space: pre-line;">${texts}</p>
+        </div>
+        <textarea label="Summarize the text" name="summary" required style="margin: 7pt; padding: 7pt; width:70%; height:25%;  display:inline-block; text-align: left"
+                  overflow-y="scroll"></textarea>
+
+        <crowd-input label="" name="log_of_what_they_did" required value="" id="hf" style="visibility: hidden">
+        </crowd-input>
+        <crowd-button form-action="submit" id="myfreakingbutton">
+            <p>Submit</p>
+        </crowd-button>
+    </crowd-form>
+</div>
+
