@@ -1,0 +1,79 @@
+Keystroke analysis
+* Describe how we actually extract copy and paste
+
+Building the synthetic-real classifier
+...
+Three datasets were used to train the real-synthetic classifier: (1) the original abstracts, (2) real human texts produced in the previous pre-GPT iteration of this HIT and (3) a synthetic dataset from prompting ChatGPT (details below). The real dataset included 126 high-quality human summarizations.
+
+Keystroke analysis
+
+We begin by tracking the frequency of copy and pasting by the crowd workers. To extract copy and pastes, we examine user interactions with both the menu bar (right click on the text) and keystrokes (ctrl c, ctrl v). Then for each user we parse their interactions and track if a paste occurs. 
+We find that over 90% of crowd workers paste some form of text into their editor. 
+% In Figure K we also illustrate a few of the most frequent forms of interactions with the HIT editor. 
+% The most common is copy-paste-backspace and the second most common is copy paste. We find that only k% of the users actually type text into the editor. 
+The simple act of copying and pasting, however, does not imply the use of ChatGPT. In fact, there can several other possible explanations. First, MTurk has its own plugins and interfaces that extend on the pre-existing display and provide a new space to engage with the task, which frequent crowd workers may use. 
+Qualitative analysis further reveals that the workers copy and paste complicated wordings, or abstracts entirely, from the original abstract into the text bar (i.e., reusing content from the abstract). We measure when this happens by counting the proportion of texts in the copied response that comes from the original abstract in Figure \ref{}. Here we see that the distribution is bimodal, with many of the copied texts coming straight from the original abstract and the other texts including low similarity.
+For these two reasons, we further fine-tune a model for detecting synthetic text. 
+
+
+Finetuned model
+Model performance.
+As discussed in Section (REFER TO SECTION), we trained our model in two contexts, transductive and inductive. First, in the transductive section, where all questions were combined, our model achieved an accuracy of 98%. We then complemented the transductive setting with an inductive setting to understand if the model was overfitting to abstract-specific ChatGPT generations or was learning specific artificats present in ChatGPT that generalize across questions. We find that even in the inductive setting, where the model hasn't seen a specific subset of abstracts, the model is still able to successfully identify synthetic generations 89% of the time. 
+
+Next, we run this fine-tuned model on the collection of new MTurk responses. We find that 32% (15 out of 48(??)) of the answers from the crowd workers is classified as being synthetic. 
+Since, a lot of the copy pastes were in fact taking texts from the abstract itself, we add Figure k where we re-draw the histogram only now labelling the synthetic vs. real generations. Here we see that when the model predicts a text to be synthetic, it usually has a low proportion of the underlying text being taken directly from the abstract itself.  
+
+
+Discussion
+* Human generated text is important
+* One source of human-text is lost by there use of LLMs.
+* This will lead more and more text to be synthetic. Perpetuating biases and artifacts present in these models. 
+* Cite Noah Smith on quality ideology. 
+* We will thus need to be more careful about studies using crowd workers for specific annotations.
+* One of the main contributions of our paper is the method for synthetic data detection. We hope this will let other researchers also detect texts from crowd workers that is synthetic. Moreover, our approach demonstrates the importance of actually using bespoke detection models with the more general ones not working sufficently well.
+* Future work should consider more models than just ChatGPT (written)
+* We expect this trend to only continue as models become multimodal and better performances. 
+
+Limitations
+* We only consider one task
+* 
+
+
+Another contribution of our work is an approach for detecting synthetic texts in a restricted environment, where there exist finitely many well-defined questions. This environment maps over to existing areas where synthetically generated text will be problematic like in the education-space, where testing, essays, and assignments can be quickly, and often effectively, solved by LLMs.  
+
+Limitations
+For our generations we rely on ChatGPT. However, as more and more models become accessible, it will be important to generate answers that capture the artifacts for each of the different ``mainstream'' models. Consequently, for future applications, we encourage researchers to generate texts from more models. 
+Given the nature of MTurk and other crowd working environments, it is unlikely that there can be ways to reduce or eliminate the use of these LLMs without implementing some hard measures. Consequently, there will be a need to find more effective ways for solving human-like tasks. 
+In the meantime, we believe that our detection approach can help researchers cull or remove answers that are clearly synthetic. 
+
+
+################
+TODO 
+
+Important
+******
+* Can we find examples of ML models that have been trained on MTurk data post 2023? 
+******
+
+
+Github
+* Link to the GitHub repository where readers can find the code to re-run it, the fine-tuning code, etc.
+* In the GitHub README add a link to the synthetic generation paper for inspiration for the fine-tuning setup. 
+* Add fine-tuning code to the repository
+
+
+Writing
+* Add a sentence about MTurk use for ML in the MTurk data for text. Which studies have used MTurk labelled data for model training. Look at some of the NLI literature. NLP literature more broadly. 
+* "Here we see that when the model predicts a text to be synthetic" -> "Here we observe that the model mostly predicts 'short  
+* Add a sentence that while past work has found that synthetic data encodes its own artifacts, we can benefit from this!
+* Can we theorize what kind of tasks will be affected?
+* Add a sentence to discussion about the lack of diversity in machine-generated texts.
+* What if people are confused about the name articiial*3 intelligence?
+* Improve on the line "We argue it would diminish"
+* Repetition of "thus we argue" in intro
+* "fail like in the work of Liu et al." -> "an example of LLM + humans in the loop is the work of Liu et al.".
+
+Further analyses
+* Should we explore the most common type of interactions with the editor? examples:
+	* what percentage actually write text?
+	* what percetage uses backspace?
